@@ -5,12 +5,12 @@ description: "...And You Will Know Me by the Trail of Documentation"
 baseurl: ""
 url: "https://brianbunke.github.io"
 title_description: "Placeholder intro text. (If you see this: Sorry, I forgot to update.)"
-title_image: "https://brianbunke.github.io/favicons/brian.jpg"
+title_image: "https://brianbunke.github.io/images/brian.jpg"
 google_analytics: ""
-# disqus_account: insert-here
 github_repository: https://github.com/brianbunke
-# addthis_id: insert-here
 post_limit: 5
+# disqus_account: insert-here
+# addthis_id: insert-here
 
 # Social usernames/URLs
 twitter_username: brianbunke
@@ -24,8 +24,8 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "If you're reading this, you scrolled too far."
-footer_right: "<a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "<a href=\"https://jekyllrb.com/">Jekyll</a> | <a href=\"https://pages.github.com/">GitHub Pages</a> | <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
+footer_right: "<a href=\"https://github.com/brianbunke/brianbunke.github.io"><i class=\"fa fa-code\"></i><i class=\"fa fa-github\"></i></a>"
 
 # Build settings
 markdown: kramdown
