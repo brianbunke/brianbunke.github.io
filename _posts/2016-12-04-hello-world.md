@@ -3,10 +3,10 @@ layout:     post
 title:      Hello World!
 date:       2016-12-04 14:30:00
 summary:    A first post to get acquainted with Jekyll.
-categories: jekyll, github pages
+categories: blog
 thumbnail:  heart
 tags:
- - demo
+ - blog
  - jekyll
  - github pages
 ---
@@ -20,7 +20,11 @@ My experience with setting up the blog, selecting a theme, and customizing it as
 See the footer for a link to this blog's open source repository. The [readme] contains a lot of the links I used to get started.
 
 ```posh
-$BlogCount++
+# Oh hey, I can use GitHub Flavored Markdown to specify that a code block should be highlighted in PowerShell syntax!
+
+If ($Author -ne 'lazy') {
+	$BlogCount++
+}
 ```
 
 [^1]: I am gonna abuse the hell out of some footnotes.
