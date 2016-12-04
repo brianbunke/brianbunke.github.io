@@ -25,7 +25,7 @@ facebook_link:
 
 # Footer
 footer_left: "If you're reading this, you scrolled too far."
-footer_right: "Theme: <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "<a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
