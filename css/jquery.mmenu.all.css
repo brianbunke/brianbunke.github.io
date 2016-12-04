@@ -50,7 +50,7 @@
     .mm-menu > .mm-panel.mm-opened {
       left: 0%; }
     .mm-menu > .mm-panel.mm-subopened {
-      left: -40%; }
+      left: -20%; }
     .mm-menu > .mm-panel.mm-highest {
       z-index: 1; }
   .mm-menu .mm-list {
