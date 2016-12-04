@@ -1,4 +1,4 @@
-#### Hello world!
+https://brianbunke.github.io
 
 ###### Quick start guide for Jekyll on GitHub Pages
 - http://jmcglone.com/guides/github-pages/
