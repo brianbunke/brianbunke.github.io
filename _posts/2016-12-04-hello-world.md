@@ -23,11 +23,11 @@ See the footer for a link to this blog's open source repository. The [readme] co
 # Oh hey, I can use GitHub Flavored Markdown to specify that a code block should be highlighted in PowerShell syntax!
 
 If ($Author -ne 'lazy') {
-	$BlogCount++
+    $BlogCount++
 }
 ```
 
-[^1]: I am gonna abuse the hell out of some footnotes.
+[^1]: One downside of going the Jekyll/GH Pages route: you need to be a little more tech savvy to make theme tweaks. I've done some non-trivial trolling around the code already to make preferred changes. With that time spent, here I am in the footnotes section (which I desperately want to abuse), and there is no special formatting class whatsoever in this theme. Hopefully one day I'll have the motivation to differentiate footnotes, as I won't use them moving forward if they just look like I'm still talking at the end of the post.
 
 [Jekyll]: <https://jekyllrb.com/>
 [GP]: <https://pages.github.com/>
