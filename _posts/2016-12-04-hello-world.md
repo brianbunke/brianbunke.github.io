@@ -11,6 +11,8 @@ tags:
  - github pages
 ---
 
+![Dog](https://brianbunke.github.io/images/hello_dog.jpg)
+
 I'll be using this blog to write about PowerShell and related technologies, primarily.
 
 I wanted to try out [Jekyll] on [GitHub Pages][GP] for blog hosting, because I write a lot of [Markdown][MD]/[GFM] these days. I'm also excited about the idea of not needing to pay for a website host, maintain database backups, or continuously patch WordPress.
