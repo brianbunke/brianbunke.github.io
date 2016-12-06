@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Hello World!
+title:      Hello Blogosphere!
 date:       2016-12-04 14:30:00
-summary:    A first post to get acquainted with Jekyll.
+summary:    A first post to introduce the blog and get acquainted with Jekyll.
 categories: blog
 thumbnail:  heart
 tags:
@@ -20,7 +20,7 @@ I wanted to try out [Jekyll] on [GitHub Pages][GP] for blog hosting, because I w
 ```posh
 # Oh hey, I can use GitHub Flavored Markdown to specify that a code block should be highlighted in PowerShell syntax!
 
-If ($Author -ne 'lazy') {
+If ($Author.Mood -ne 'lazy') {
     $BlogCount++
 }
 ```
