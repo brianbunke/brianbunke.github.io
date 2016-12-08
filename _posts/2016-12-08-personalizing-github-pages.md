@@ -32,6 +32,7 @@ You've decided to start a blog, and you've heard that all the cool kids are usin
 Here's the good and bad from my point of view, if you find yourself thinking about the same decision:
 
 **Pros**
+
 - Free hosting (within [limits])
 - Static site generation
   - I don't know PHP. Diving into CSS to edit themes is as far as I want to go
@@ -45,6 +46,7 @@ Here's the good and bad from my point of view, if you find yourself thinking abo
   - With Markdown, native support for tech blog staples like code blocks and syntax highlighting
 
 **Cons**
+
 - If you're on Windows, it's far more annoying to preview a post before publishing it
   - [Jekyll on Windows] docs
   - Because of this, I have a...ahem..._verbose_ history of [commits] to my master branch while learning the platform (and my theme of choice)
