@@ -16,7 +16,8 @@ tags:
 
 ## What we're covering in class today:
 {:.no_toc}
-{toc}
+
+{:toc}
 
 ## Why GitHub Pages?
 You've decided to start a blog, and you've heard that all the cool kids are using [GitHub Pages][GP] these days. (Obviously.) Ultimately, I'm interested in authoring in Markdown and not worrying about standard hosting headaches.
