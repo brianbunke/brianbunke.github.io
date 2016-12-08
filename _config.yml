@@ -4,9 +4,9 @@ email: brianbunke+blog@gmail.com
 description: "...And You Will Know Me by the Trail of Documentation"
 baseurl: ""
 url: "https://brianbunke.github.io"
-title_description: "Placeholder intro text. (If you see this: Sorry, I forgot to update.)"
+title_description: "Systems Automator in WA, USA. I like PowerShell. My son thinks I'm funny."
 title_image: "https://brianbunke.github.io/images/brian.jpg"
-google_analytics: ""
+google_analytics: "UA-59218526-2"
 github_repository: https://github.com/brianbunke/brianbunke.github.io
 post_limit: 5
 # disqus_account: insert-here
