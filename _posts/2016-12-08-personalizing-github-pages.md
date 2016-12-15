@@ -5,6 +5,8 @@ date:       2016-12-08 05:00:00
 summary:    You've decided to use GitHub Pages. Now what?
 categories: blog
 thumbnail:  rss-square
+author:
+  twitter:  brianbunke
 tags:
  - blog
  - jekyll
@@ -61,6 +63,8 @@ Here's the good and bad from my point of view, if you find yourself thinking abo
   - Theme hunting in GHP is far more basic than WordPress's nice directory
   - Hopefully this post will help navigate that gap!
 
+> EDIT 2016/12/15: A week after writing this, Github Pages introduced a [Jekyll Theme Chooser]. Options are limited at the moment, but if you like quick, you can skip the rest of this walkthrough!
+ 
 ## How to Create a GHP Blog
 
 You just need a free GitHub account!
@@ -86,8 +90,6 @@ Selecting a theme for your GitHub Pages blog:
 Let's find a theme! Check out [this list] and tab open as many demos as you can. (No, there are no ratings or filtering to help. Yes, it's a bummer.) I prefer a dark blog, and those options are always much more limited, so the evaluation process goes a little quicker for me.
 
 Find one you like? Sweet. Whatever will we do with it? And is that a sufficient cliffhanger that makes you want to turn the page into the next chapter?
-
-> Now is a good time to mention that [installing] GitHub Pages supported themes is super easy, and that they have certified [ONE WHOLE THEME] for your cultivated tastes. So if you love Minima, I guess you're done!
 
 ## Ok, But Actually Pimp My Ride This Time
 
@@ -160,10 +162,9 @@ Come to the dark side. We have this walkthrough, and we most definitely have coo
 [limits]: <https://help.github.com/articles/what-is-github-pages/#usage-limits>
 [Jekyll on Windows]: <https://jekyllrb.com/docs/windows/>
 [commits]: <https://github.com/brianbunke/brianbunke.github.io/commits/master>
+[Jekyll Theme Chooser]: <https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/>
 [jmcglone]: <http://jmcglone.com/guides/github-pages/>
 [this list]: <https://github.com/jekyll/jekyll/wiki/Themes>
-[installing]: <https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/>
-[ONE WHOLE THEME]: <https://pages.github.com/themes/>
 [Carte Noire]: <https://github.com/jacobtomlinson/carte-noire>
 [CNAME]: <https://help.github.com/articles/using-a-custom-domain-with-github-pages/>
 [README]: <https://github.com/brianbunke/brianbunke.github.io/blob/master/readme.md>

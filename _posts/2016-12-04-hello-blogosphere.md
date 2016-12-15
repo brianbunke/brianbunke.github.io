@@ -5,6 +5,8 @@ date:       2016-12-04 14:30:00
 summary:    A first post to introduce the blog and get acquainted with Jekyll.
 categories: blog
 thumbnail:  heart
+author:
+  twitter:  brianbunke
 tags:
  - blog
  - jekyll
