@@ -19,12 +19,11 @@ I got really tired of parsing VM logs for vMotion events, and figured there coul
 
 > tl;dr - You can [find Get-VMotion] on the [PowerShell Gallery]! You can also grab it directly from [my GitHub], if that's more your style.
 
-```posh
-```
-
 Here's how to get up and running:
 
-```powershell
+_Sorry, I don't know why this code block highlights improperly. [Open issue here] if you have a tip for me! :)_
+
+```posh
 # First time only: Install it from the PowerShell Gallery with PS v5
 # Requires an admin PowerShell window
 # You may be prompted to add 'C:\Program Files\WindowsPowerShell\Scripts' to environment variable Path
@@ -87,5 +86,6 @@ You can easily raise an issue on [my GitHub] if you find a bug, or just let me k
 [find Get-VMotion]: https://www.powershellgallery.com/packages/Get-VMotion/
 [PowerShell Gallery]: https://www.powershellgallery.com/
 [my GitHub]: https://github.com/brianbunke/vCmdlets
+[Open issue here]: https://github.com/brianbunke/brianbunke.github.io/issues/1
 [link1]: http://www.lucd.info/2013/03/31/get-the-vmotionsvmotion-history/
 [link2]: https://github.com/alanrenouf/vCheck-vSphere
