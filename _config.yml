@@ -36,3 +36,4 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
+future: false
