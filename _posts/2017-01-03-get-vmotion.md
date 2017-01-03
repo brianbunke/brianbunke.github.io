@@ -22,7 +22,7 @@ I got really tired of parsing VM logs for vMotion events, and figured there coul
 
 Here's how to get up and running:
 
-```
+```posh
 # One-time step: Install it from the PowerShell Gallery with PS v5
 # Requires an admin PowerShell window
 # You may be prompted to add 'C:\Program Files\WindowsPowerShell\Scripts' to environment variable Path
@@ -48,7 +48,7 @@ Get-VMotion
 
 The examples have some more advanced use cases (sorry, I went all-in on the Tron flavoring):
 
-```
+```posh
 Get-VMotion
 # By default, searches $global:DefaultVIServers (all open Connect-VIServer sessions).
 # For all datacenters found by Get-Datacenter, view all s/vMotion events in the last 24 hours.
