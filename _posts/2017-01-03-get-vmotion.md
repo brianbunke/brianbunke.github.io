@@ -22,6 +22,9 @@ I got really tired of parsing VM logs for vMotion events, and figured there coul
 Here's how to get up and running:
 
 ```posh
+Get-VMotion
+# By default
+
 # First time only: Install it from the PowerShell Gallery with PS v5
 # Requires an admin PowerShell window
 # You may be prompted to add 'C:\Program Files\WindowsPowerShell\Scripts' to environment variable Path
