@@ -19,12 +19,12 @@ I got really tired of parsing VM logs for vMotion events, and figured there coul
 
 > tl;dr - You can [find Get-VMotion] on the [PowerShell Gallery]! You can also grab it directly from [my GitHub], if that's more your style.
 
+```posh
+```
+
 Here's how to get up and running:
 
-```posh
-Get-VMotion
-# By default
-
+```powershell
 # First time only: Install it from the PowerShell Gallery with PS v5
 # Requires an admin PowerShell window
 # You may be prompted to add 'C:\Program Files\WindowsPowerShell\Scripts' to environment variable Path
