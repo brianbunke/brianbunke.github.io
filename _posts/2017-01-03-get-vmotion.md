@@ -22,32 +22,6 @@ I got really tired of parsing VM logs for vMotion events, and figured there coul
 Here's how to get up and running:
 
 ```posh
-# One-time step: Install it from the PowerShell Gallery with PS v5
-# Requires an admin PowerShell window
-# You may be prompted to add 'C:\Program Files\WindowsPowerShell\Scripts' to environment variable Path
-Install-Script 'Get-VMotion'
-
-# And load the Get-VMotion function into the current session by dot-sourcing it
-# Specifying no path here works if your Scripts folder above shows in $env:Path
-. Get-VMotion.ps1
-# Get-VMotion requires PS v3 and PowerCLI module VMware.VimAutomation.Core
-# Meaning PowerCLI v6 or higher must be installed
-
-Get-Help Get-VMotion
-Get-Help Get-VMotion -Examples
-
-# Connect to your vCenter server
-Connect-VIServer 'your-vcenter-server'
-
-# View all vMotions in the last day. Or try something else from the examples!
-Get-VMotion
-```
-
-![vMotion pic](https://brianbunke.github.io/images/get-vmotion.png)
-
-The examples have some more advanced use cases (sorry, I went all-in on the Tron flavoring):
-
-```posh
 Get-VMotion
 # By default, searches $global:DefaultVIServers (all open Connect-VIServer sessions).
 # For all datacenters found by Get-Datacenter, view all s/vMotion events in the last 24 hours.
@@ -75,6 +49,32 @@ Get-VMotion | Select-Object Name,Type,Duration | Sort-Object Duration
 # For all s/vMotions in the last day, return only VM name, vMotion type, and total migration time.
 # Sort all events from fastest to slowest.
 # Selecting < 5 properties automatically formats output in a table, instead of a list.
+```
+
+![vMotion pic](https://brianbunke.github.io/images/get-vmotion.png)
+
+The examples have some more advanced use cases (sorry, I went all-in on the Tron flavoring):
+
+```posh
+# First time only: Install it from the PowerShell Gallery with PS v5
+# Requires an admin PowerShell window
+# You may be prompted to add 'C:\Program Files\WindowsPowerShell\Scripts' to environment variable Path
+Install-Script 'Get-VMotion'
+
+# And load the Get-VMotion function into the current session by dot-sourcing it
+# Specifying no path here works if your Scripts folder above shows in $env:Path
+. Get-VMotion.ps1
+# Get-VMotion requires PS v3 and PowerCLI module VMware.VimAutomation.Core
+# Meaning PowerCLI v6 or higher must be installed
+
+Get-Help Get-VMotion
+Get-Help Get-VMotion -Examples
+
+# Connect to your vCenter server
+Connect-VIServer 'your-vcenter-server'
+
+# View all vMotions in the last day. Or try something else from the examples!
+Get-VMotion
 ```
 
 s/o to lucd ([link][link1]) and alanrenouf/sneddo ([link][link2]) for prior work in this area.
