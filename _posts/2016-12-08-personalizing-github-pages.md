@@ -5,8 +5,7 @@ date:       2016-12-08 05:00:00
 summary:    You've decided to use GitHub Pages. Now what?
 categories: blog
 thumbnail:  rss-square
-author:
-  twitter:  brianbunke
+author:     brianbunke
 tags:
  - blog
  - jekyll

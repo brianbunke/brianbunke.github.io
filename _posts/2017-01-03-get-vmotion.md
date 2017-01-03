@@ -5,8 +5,7 @@ date:       2017-01-03 10:00:00 +0700
 summary:    Report on VMware vMotion events
 categories: blog
 thumbnail:  exchange
-author:
-  twitter:  brianbunke
+author:     brianbunke
 tags:
  - powershell
  - code
@@ -78,7 +77,7 @@ Get-VMotion | Select-Object Name,Type,Duration | Sort-Object Duration
 # Selecting < 5 properties automatically formats output in a table, instead of a list.
 ```
 
-s/o to lucd ([link1][link]) and alanrenouf/sneddo ([link2][link]) for prior work in this area.
+s/o to lucd ([link][link1]) and alanrenouf/sneddo ([link][link2]) for prior work in this area.
 
 You can easily raise an issue on [my GitHub] if you find a bug, or just let me know if you found it helpful!
 
