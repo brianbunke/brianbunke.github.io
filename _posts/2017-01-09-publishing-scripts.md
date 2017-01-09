@@ -21,16 +21,17 @@ Gratuitous simile aside, the PS Gallery is really handy, and I'd love to encoura
 > Full disclosure: I'd love for you to publish a module, too. Modules are the preferred delivery method if you know what you're doing, but there are still use cases for standalone scripts. And, you know, this article isn't about `Publish-Module`. Moving on!
 
 ---
+
 ## Start to Finish:
 {: .no_toc}
 
 - ToC
 {:toc}
+
 ---
 
 ## Create a PowerShell Gallery Account
 
-- [http://www.powershellgallery.com/]
 - Register (probably with an existing personal account?)
   - Allow access to the PS Gallery app
   - Select a username
@@ -47,7 +48,7 @@ Your profile--where you copy your API key--should look like this:
 
 ## Create Your Sweet Script
 
-My example for today is [Measure-LastCommand]. Measure-LastCommand is a simple script that calculates the total runtime of any command you previously executed. Here's the important stuff:
+My example for today is [Measure-LastCommand]. `Measure-LastCommand` is a simple script that calculates the total runtime of any command you previously executed. Here's the important stuff:
 
 ![Measure-LastCommand](https://brianbunke.github.io/images/Measure-LastCommand.png)
 
@@ -70,7 +71,7 @@ Alright, fine.
 
 `Update-ScriptFileInfo -Path $MLC -Force -Description 'testing'` works with no complaints, so let's open things up and...whaaat the hell just happened. Quarantining that to its own Gist:
 
-[https://gist.github.com/brianbunke/7a913118b9c7af10cd6456ee5e4c24be]
+[Gist 1: Update-ScriptFileInfo results]
 
 Ugh. Unnecessary white space, nonsense trailing spaces, and to really zoom in on this:
 
@@ -90,21 +91,22 @@ Ok, doing this in three steps. First, to answer the above:
 
 1. I kill those blank lines. _I mean, wth man_
 2. It doesn't need its own block
-3. Yes to redundant .DESCRIPTION, I'll come back to that
+3. Yes to redundant `.DESCRIPTION`, I'll come back to that
 4. Gretchen, stop trying to make double `Param ()` block happen. It's not going to happen.
 
 Second, here's a template for using `Update-ScriptFileInfo` as of January 2017. Hopefully it provides an idea both of what options there are to define, as well as how to format most parameters.
 
-https://gist.github.com/brianbunke/03e90f28181b373d1df686429163711a
+[Gist 2: Update-ScriptFileInfo template]
 
 As the template alludes, "Description" in PS Gallery land is similar to "Synopsis" in your comment-based help. Basically, your PSScriptInfo Description is a synopsis for the general public. Synopsis/Description in your help continue to function as expected, and can be more targeted to your niche audience.
 
-> HINT: Need examples of how others did it? Here's a list of [PS Gallery items]; filter to just the Script item type on that page. That shows how Name/Description/etc. are displayed. You can also `Find-Script Measure-LastCommand | Format-List *`, or `Save-Script -Name Measure-LastCommand -Path "$env:USERPROFILE\Desktop" to ~~steal~~ repurpose anyone's finished product!
+> HINT: Need examples of how others did it? Here's a list of [PS Gallery items]; filter to just the Script item type on that page. That shows how Name/Description/etc. are displayed. You can also `Find-Script Measure-LastCommand | Format-List *`, or `Save-Script -Name Measure-LastCommand -Path "$env:USERPROFILE\Desktop"` to ~~steal~~ repurpose anyone's finished product!
+
 > Note that Name is determined by the filename (without file extension) of your script, NOT the function name(s) within.
 
 Third, this is how I published my finished script with reformatted PSScriptInfo:
 
-![psscriptinfo](https://brianbunke.github.io/images/psscriptinfo.png)
+![psscriptinfo](https://brianbunke.github.io/images/PSScriptInfo.png)
 
 As you tweak the formatting to your preference, use the `Test-ScriptFileInfo` command to ensure everything is still working as expected.
 
@@ -139,15 +141,17 @@ I've had mixed results with `Install-Script` working in subsequent sessions. For
 ## Summary
 
 For you:
+
 - The PS Gallery is an easy way to get and share both modules and scripts with the world
 - Use `Update-ScriptFileInfo` responsibly
 - `Publish-Script` with your API key
   - And, when publishing updates, ensure your script retains the same GUID as before
 - `Save-Script` vs. `Install-Script`
   - Probably `Save` for now...YMMV
-- Seriously though, make `Get-SimpsonsQuote` for me
+- Seriously though, make `Get-SimpsonsQuote` for me!
 
 For both of us?:
+
 - The [PowerShellGet] module was open-sourced in Sept 2016
   - Hopefully most of this article becomes obsolete with some pull requests!
 
@@ -159,6 +163,8 @@ For both of us?:
 [PowerShell Gallery]: https://www.powershellgallery.com/
 [More info.]: https://msdn.microsoft.com/en-us/powershell/gallery/psgallery/psgallery_gettingstarted
 [Measure-LastCommand]: https://www.powershellgallery.com/packages/Measure-LastCommand/
+[Gist 1: Update-ScriptFileInfo results]: https://gist.github.com/brianbunke/7a913118b9c7af10cd6456ee5e4c24be
+[Gist 2: Update-ScriptFileInfo template]: https://gist.github.com/brianbunke/03e90f28181b373d1df686429163711a
 [PS Gallery items]: https://www.powershellgallery.com/items
 [PowerShellGet]: https://github.com/PowerShell/PowerShellGet
 [on the Internet]: https://www.powershellgallery.com/packages/Measure-LastCommand/
