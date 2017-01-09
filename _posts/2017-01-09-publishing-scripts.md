@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Publishing Scripts to the PowerShell Gallery
-date:       2017-01-09 10:00:00 +0800
+date:       2017-01-08 10:00:00 +0800
 summary:    Share Your Scripts Efficiently!
 categories: blog
 thumbnail:  cloud-upload
@@ -44,6 +44,7 @@ Your profile--where you copy your API key--should look like this:
 
 **Important:** Guard your API key like a password! With obnoxious green boxes!
 
+
 ## Create Your Sweet Script
 
 My example for today is [Measure-LastCommand]. Measure-LastCommand is a simple script that calculates the total runtime of any command you previously executed. Here's the important stuff:
@@ -53,6 +54,7 @@ My example for today is [Measure-LastCommand]. Measure-LastCommand is a simple s
 The red arrows aren't important right now; I'm just calling out that I have collapsed both the function's comment-based help and its parameter block. And please forgive the line break...tried to keep things readable in image format.
 
 Finally made your `Get-SimpsonsQuote` script pretty enough that you don't feel self-conscious sharing it? Awesome. Now let's start screwing with it.
+
 
 ## Publish-Script: Take One
 
@@ -81,6 +83,7 @@ Ugh. Unnecessary white space, nonsense trailing spaces, and to really zoom in on
 
 brb, going for a long walk.
 
+
 ## Update-ScriptFileInfo, the Right Way
 
 Ok, doing this in three steps. First, to answer the above:
@@ -105,6 +108,7 @@ Third, this is how I published my finished script with reformatted PSScriptInfo:
 
 As you tweak the formatting to your preference, use the `Test-ScriptFileInfo` command to ensure everything is still working as expected.
 
+
 ## Publish-Script: Take Two
 
 With PSScriptInfo populated, and with Test-ScriptFileInfo returning no errors, you're ready to go.
@@ -116,6 +120,7 @@ Publish-Script -Path $MLC -NuGetApiKey $Key -Verbose
 ```
 
 No username/password necessary, just done! You'll want to search the [PowerShell Gallery] for your new pride and joy, and you can always `Find-Script`/`Save-Script`/`Install-Script` with it too, just to make sure it works as expected.
+
 
 ## Using Scripts From the Gallery
 
@@ -130,6 +135,7 @@ You have the option to either:
   
 I've had mixed results with `Install-Script` working in subsequent sessions. For now, I'm sticking with `Save-Script`, but I hope to find more reliable results when installing in the future, because it's really easy.
 
+
 ## Summary
 
 For you:
@@ -138,13 +144,12 @@ For you:
 - `Publish-Script` with your API key
   - And, when publishing updates, ensure your script retains the same GUID as before
 - `Save-Script` vs. `Install-Script`
-  - Probably `Save` for now
+  - Probably `Save` for now...YMMV
 - Seriously though, make `Get-SimpsonsQuote` for me
 
 For both of us?:
 - The [PowerShellGet] module was open-sourced in Sept 2016
-  - Hopefully this article becomes obsolete with some pull requests!
-- 
+  - Hopefully most of this article becomes obsolete with some pull requests!
 
 `Measure-LastCommand` can be found wherever fine scripts are available. (He means it's [on the Internet].)
 
