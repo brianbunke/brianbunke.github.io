@@ -32,6 +32,7 @@ Gratuitous simile aside, the PS Gallery is really handy, and I'd love to encoura
 
 ## Create a PowerShell Gallery Account
 
+- [https://www.powershellgallery.com/](https://www.powershellgallery.com/)
 - Register (probably with an existing personal account?)
   - Allow access to the PS Gallery app
   - Select a username
