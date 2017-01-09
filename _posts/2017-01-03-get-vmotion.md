@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Get-VMotion
-date:       2017-01-03 10:00:00 +0800
+date:       2017-01-03 10:00:00 -0800
 summary:    Report on VMware vMotion events
 categories: blog
 thumbnail:  exchange
