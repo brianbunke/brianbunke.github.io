@@ -16,7 +16,7 @@ $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
 
-$darker:         #21211E;
+$darker:         #292929;
 $dark:           #2D2D29;
 $medium:         #3B3B35;
 $light-medium:   #969696;
@@ -567,6 +567,7 @@ ul {
 			padding-top: 10px;
 			padding-bottom: 10px;
 
+			/* THIS BLOCK COMMENTED OUT
 			@media (min-width: $screen-sm-min) {
 				font-size: 24px;
 				padding-left: 30px;
@@ -574,6 +575,7 @@ ul {
 				padding-top: 40px;
 				padding-bottom: 20px;
 			}
+			*/
 
 			.series {
 				margin-bottom: 50px;
