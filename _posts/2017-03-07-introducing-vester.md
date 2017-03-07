@@ -188,4 +188,4 @@ Seriously, if nothing else, dip your toe in to the Slack channel! We think we're
 [POSHOrigin_vSphere]: https://github.com/devblackops/POSHOrigin_vSphere
 [PowerShell Gallery]: https://www.powershellgallery.com/
 [ReadTheDocs]: http://vester.readthedocs.io/en/latest/index.html
-[VMware {code} Slack]: https://vmwarecode.slack.com/
+[VMware {code} Slack]: https://code.vmware.com/web/code/join
