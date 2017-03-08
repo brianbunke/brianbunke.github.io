@@ -61,7 +61,7 @@ If using `New-VesterConfig` to generate another file, you should use the `-Outpu
 New-VesterConfig -OutputFolder "$env:USERPROFILE\Desktop\"
 ```
 
-When you call `Invoke-Vester`, by default the `-Config` parameter uses `\Configs\Config.json` within your module folder. If you have multiple configs and/or you store them in a different folder, you'll need to specify that here. Example: `Invoke-Vester -Config "C:\Vester\Config.json"`
+When you call `Invoke-Vester`, by default the `-Config` parameter uses `\Configs\Config.json` within your module folder. If you have multiple configs and/or you store them in a different folder, you'll need to specify that here.
 
 ```posh
 Invoke-Vester -Config "C:\Vester\Config.json"
