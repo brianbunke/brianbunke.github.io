@@ -143,6 +143,10 @@ Ran in verbose and think you've found a bug? (Don't worry, I believe you, there 
 
 You can also open an issue to make a feature request, or ask if something would be feasible. And, again, you can hit up the small group on [VMware {code} Slack] if you have more informal questions or feedback.
 
+At the time of this writing, March 8th, 2017, we have an open issue on the project [soliciting feedback] on Vester's 1.0 functionality. We'd be happy to hear your thoughts on the current status.
+
+Look for part 3 (writing your own tests) tomorrow. Happy Vesting!
+
 
 
 [Introducing Vester]: http://www.brianbunke.com/blog/2017/03/07/introducing-vester/
@@ -156,3 +160,4 @@ You can also open an issue to make a feature request, or ask if something would 
 [GitLab]: https://gitlab.com
 [AppVeyor]: https://www.appveyor.com
 [Open an issue]: https://github.com/WahlNetwork/Vester/issues
+[soliciting feedback]: https://github.com/WahlNetwork/Vester/issues/91
