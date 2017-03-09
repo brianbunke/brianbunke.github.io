@@ -153,7 +153,7 @@ Look for part 3 (writing your own tests) tomorrow. Happy Vesting!
 [PowerShell Gallery]: https://www.powershellgallery.com/packages/Vester
 [GitHub]: https://github.com/WahlNetwork/Vester
 [ReadTheDocs]: http://vester.readthedocs.io/en/latest/index.html
-[VMware {code} Slack]: https://vmwarecode.slack.com/
+[VMware {code} Slack]: https://code.vmware.com/join
 [happy path]: https://en.wikipedia.org/wiki/Happy_path
 [brownfield]: https://en.wikipedia.org/wiki/Brownfield_(software_development)
 [NUnit XML format]: https://github.com/pester/Pester/wiki/Showing-Test-Results-in-CI-%28TeamCity%2C-AppVeyor%29
