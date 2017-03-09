@@ -18,7 +18,7 @@ tags:
 
 > Part 1 of this series, [Introducing Vester], covers the basics of what Vester is and how to get started.
 >
-> Part 3 of this series will cover the individual *.Vester.ps1 test structure, and walk through an example of how to create your own tests.
+> Part 3, [Write Your Own Vester Test], covers the individual *.Vester.ps1 test structure, and walks through an example of how to create your own tests.
 
 Relevant Vester links, conveniently up top for your reference:
 - The project is published on the [PowerShell Gallery] and maintained, open-source, on [GitHub]
@@ -147,9 +147,12 @@ At the time of this writing, March 8th, 2017, we have an open issue on the proje
 
 Look for part 3 (writing your own tests) tomorrow. Happy Vesting!
 
+Part 1: [Introducing Vester] | Part 3: [Write Your Own Vester Test]
+
 
 
 [Introducing Vester]: http://www.brianbunke.com/blog/2017/03/07/introducing-vester/
+[Write Your Own Vester Test]: http://www.brianbunke.com/blog/2017/03/09/write-your-own-vester-test/
 [PowerShell Gallery]: https://www.powershellgallery.com/packages/Vester
 [GitHub]: https://github.com/WahlNetwork/Vester
 [ReadTheDocs]: http://vester.readthedocs.io/en/latest/index.html
