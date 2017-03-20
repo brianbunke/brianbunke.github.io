@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
 /* Colours */
+$email:          #fffcad;
 $twitter:        #6dabda;
 $linkedin:       #2b77b1;
 $xing:           #006567;
@@ -162,7 +163,7 @@ ul {
 }
 
 .links {
-	margin-top: 50px;
+	margin-top: 10px;
 	text-align: center;
 
 	i {
@@ -179,6 +180,10 @@ ul {
 		-webkit-transition: 0.3s;
 		-moz-transition: 0.3s;
 		transition: 0.3s;
+	}
+
+	.fa-envelope:hover {
+		color: $email;
 	}
 
 	.fa-twitter:hover {
@@ -714,6 +719,11 @@ ul {
 
 			}
 
+		}
+
+		.feedback {
+			font-size: 24px;
+
 			.suggest-edit {
 				font-size:  14px;
 				font-style: italic;
@@ -721,9 +731,6 @@ ul {
 
 			}
 
-		}
-
-		.feedback {
 			text-align: center;
 
 			.fa-heart {

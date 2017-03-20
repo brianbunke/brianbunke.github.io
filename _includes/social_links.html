@@ -1,4 +1,5 @@
 <p class="links">
+  {% if site.email %}<a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i></a>{% endif %}
   {% if site.twitter_username %}<a href="https://www.twitter.com/{{ site.twitter_username }}" target="_new"><i class="fa fa-twitter"></i></a>{% endif %}
   {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fa fa-linkedin"></i></a>{% endif %}
   {% if site.xing_link %}<a href="{{ site.xing_link }}" target="_new"><i class="fa fa-xing"></i></a>{% endif %}

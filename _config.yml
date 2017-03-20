@@ -1,10 +1,10 @@
 # Site settings
 title: "Brian Bunke"
-email: brianbunke+blog@gmail.com
+email: me@brianbunke.com
 description: "...And You Will Know Me by the Trail of Documentation"
 baseurl: ""
 url: "https://brianbunke.github.io"
-title_description: "Systems Automator in WA, USA. I like PowerShell. My son thinks I'm funny."
+title_description: "Systems Automator in the Seattle area. I often write about PowerShell and VMware. My son thinks I'm funny."
 title_image: "https://brianbunke.github.io/images/brian.jpg"
 google_analytics: "UA-59218526-2"
 github_repository: https://github.com/brianbunke/brianbunke.github.io
