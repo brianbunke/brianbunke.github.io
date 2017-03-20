@@ -100,11 +100,18 @@ layout: default
         </div>
         {% endif %}
 
+      </div>
+
+      <div class="content-panel feedback">
+        {% include social_links.html %}
+
         <div class="suggest-edit">
           Spotted a mistake in this article? Why not <a href="{{site.github_repository}}/blob/master/{{page.path}}" data-proofer-ignore>suggest an edit</a>!
         </div>
 
       </div>
+
+      <!-- Overhauled feedback panel 2017/03/19
 
       {% if site.twitter_username and site.disqus_account %}
       <div class="content-panel feedback">
@@ -131,6 +138,8 @@ layout: default
         </div>
       </div>
       {% endif %}
+
+      -->
 
       {% if site.related_posts.length > 0 %}
       <div class="content-panel related clearfix">
