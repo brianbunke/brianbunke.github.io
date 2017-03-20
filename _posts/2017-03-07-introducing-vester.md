@@ -19,6 +19,8 @@ tags:
 > Part 2 of this series, [Vester 2: Vest Harder], covers more advanced usage of the module.
 >
 > Part 3, [Write Your Own Vester Test], covers the individual *.Vester.ps1 test structure, and walks through an example of how to create your own tests.
+>
+> [Video Vester] is a recorded online presentation walking through this blog series.
 
 This post is all about managing your VMware environment with Vester ([PS Gallery]/[GitHub]). Vester uses PowerCLI and Pester to provide a lightweight configuration management solution for VMware administrators.
 
@@ -184,6 +186,7 @@ Part 2: [Vester 2: Vest Harder] | Part 3: [Write Your Own Vester Test]
 
 [Vester 2: Vest Harder]: http://www.brianbunke.com/blog/2017/03/08/vester-2-vest-harder/
 [Write Your Own Vester Test]: http://www.brianbunke.com/blog/2017/03/09/write-your-own-vester-test/
+[Video Vester]: http://www.brianbunke.com/blog/2017/03/20/video-vester/
 [PS Gallery]: https://www.powershellgallery.com/packages/Vester
 [GitHub]: https://github.com/WahlNetwork/Vester
 [PowerCLI]: https://code.vmware.com/web/dp/tool/vsphere_powercli/6.5
