@@ -36,13 +36,13 @@ The `return` keyword was a misstep. Because any command output prior to `return`
 
 The [adaptive type system] is an under-utilized feature that I wish more people knew about. And [transactions] have not been embraced by the community at large.
 
-> (I don't remember the question here, but he ended up talking about trying not to support workflows from 6.0 forward)
+> (I don't remember the question here, but he ended up talking about trying not to support workflows from 6.0 forward) **EDIT:** Will not be supported in PS Core. They'll continue to be supported in full PS.
 
 There is an [open RFC (#23)] on the topic of PowerShell-native parallel operations. Because PowerShell is a scripting language, general programming language concepts like multithreading were not a top priority. However, it is currently a consideration, and the PowerShell Team is actively soliciting feedback!
 
 **"In general, taking everything forward is an error."** In the context of future workflow support, making everything backward compatible, forever, can put an incredible burden on product teams. (I'm injecting my own paraphrasing here:) Sometimes, you have to cut ties with the worst 10%, apologize, and promise that the next thing will be even better.
 
-Also of note: If you, the reader, are freaking out about a potential future with no workflows, reach out to the PowerShell team (there's even a [monthly community call]!) and explain your use case.
+Also of note: If you, the reader, are freaking out about a potential future with no workflows, reach out to the PowerShell team (there's even a [monthly community call]!) and explain your use case. **EDIT:** Again, this workflow news only applies to PS Core.
 
 > How can I get started with contributing to the [PowerShell open source projects]?
 
