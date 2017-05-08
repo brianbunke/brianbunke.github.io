@@ -122,6 +122,8 @@ That's always a case-by-case basis, and a singular decision won't be dictated to
 
 "The goal of an open beta isn't to find and fix bugs. The goal is to find them...and know about them. Well, wait...what?" Bug fixes during a beta typically result in introducing new bugs, due to feeling a little more rushed during that period. If you approach an open beta with the goal of only finding bugs, you can continue to scope & prioritize them appropriately.
 
+_EDIT: [@AspenForester] points out that I may have heard this backwards ([link]). Without confirmation, I'll just leave both possibilities open and tell you the only concrete conclusion to draw is that you should not pay me to transcribe._
+
 ---
 
 I really enjoyed the insights, and hope I didn't lose too much in translation. I'm appreciative that he took the time, and am looking forward to the rest of the Summit!
@@ -143,3 +145,5 @@ I really enjoyed the insights, and hope I didn't lose too much in translation. I
 [.NET Standard 2.0]: https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
 [JEA]: https://msdn.microsoft.com/en-us/powershell/jea/overview
 [VMS DCL]: https://en.wikipedia.org/wiki/DIGITAL_Command_Language
+[@AspenForester]: https://twitter.com/AspenForester
+[link]: https://twitter.com/AspenForester/status/854059801101443073
