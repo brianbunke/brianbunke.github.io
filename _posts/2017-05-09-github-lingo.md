@@ -16,7 +16,8 @@ _This blog series started as a lightning talk at the [2017 PowerShell/DevOps Sum
 
 1. _[GitHub 101]_
 2. _(you are here)_
-3. _(coming soon: Your First GitHub Contribution)_
+3. _[GitHub Issues]_
+4. _(coming soon: GitHub Pull Requests)_
 
 ---
 
@@ -180,9 +181,17 @@ Making your first GitHub contribution! Tomorrow will be all about Issues: why th
 - [@markwragg] for [suggestions]. Thanks!
 - [In Case of Fire] and [xkcd] for the laffs
 
+|Being an Upstanding Gitizen|
+|---------------------------|
+| Part 1: [GitHub 101] |
+| Part 2: (you are here) |
+| Part 3: [GitHub Issues] |
 
 
+
+[2017 PowerShell/DevOps Summit]: https://powershell.org/summit/
 [GitHub 101]: http://www.brianbunke.com/blog/2017/05/08/github-101/
+[GitHub Issues]: http://www.brianbunke.com/blog/2017/05/10/github-issues/
 
 [GitHub Help]: https://help.github.com/
 
