@@ -17,7 +17,7 @@ _This blog series started as a lightning talk at the [2017 PowerShell/DevOps Sum
 1. _[GitHub 101]_
 2. _(you are here)_
 3. _[GitHub Issues]_
-4. _(coming soon: GitHub Pull Requests)_
+4. _[GitHub Pull Requests]_
 
 ---
 
@@ -171,7 +171,7 @@ Learning is foundational. With the vocabulary established, now we can start buil
 
 ## Up Next
 
-Making your first GitHub contribution! Tomorrow will be all about Issues: why they're important, and how to do them the right way.
+Making your first GitHub contribution! Tomorrow will be [all about issues]: why they're important, and how to do them the right way.
 
 ---
 
@@ -186,12 +186,14 @@ Making your first GitHub contribution! Tomorrow will be all about Issues: why th
 | Part 1: [GitHub 101] |
 | Part 2: (you are here) |
 | Part 3: [GitHub Issues] |
+| Part 4: [GitHub Pull Requests] |
 
 
 
 [2017 PowerShell/DevOps Summit]: https://powershell.org/summit/
 [GitHub 101]: http://www.brianbunke.com/blog/2017/05/08/github-101/
 [GitHub Issues]: http://www.brianbunke.com/blog/2017/05/10/github-issues/
+[GitHub Pull Requests]: http://www.brianbunke.com/blog/2017/05/12/github-pr/
 
 [GitHub Help]: https://help.github.com/
 
@@ -203,6 +205,8 @@ Making your first GitHub contribution! Tomorrow will be all about Issues: why th
 [GitHub Flavored Markdown]: https://guides.github.com/features/mastering-markdown/
 [the sun always screamed]: https://youtu.be/2E6d5j3qrss
 [PowerShell-Docs]: https://github.com/PowerShell/PowerShell-Docs
+
+[all about issues]: http://www.brianbunke.com/blog/2017/05/10/github-issues/
 
 [@markwragg]: https://twitter.com/markwragg
 [suggestions]: https://twitter.com/brianbunke/status/859467976935825408

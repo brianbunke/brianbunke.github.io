@@ -17,7 +17,7 @@ _This blog series started as a lightning talk at the [2017 PowerShell/DevOps Sum
 1. _[GitHub 101]_
 2. _[GitHub Lingo]_
 3. _(you are here)_
-4. _(coming soon: GitHub Pull Requests)_
+4. _[GitHub Pull Requests]_
 
 ---
 
@@ -168,7 +168,7 @@ Creating issues is an important step in the process, and requires no prior knowl
 
 ## Up Next
 
-If you also want to fix your problem, great! We'll cover pull requests (PRs) next time.
+If you also want to fix your problem, great! We'll cover pull requests (PRs) [next time].
 
 ---
 
@@ -182,12 +182,14 @@ If you also want to fix your problem, great! We'll cover pull requests (PRs) nex
 | Part 1: [GitHub 101] |
 | Part 2: [GitHub Lingo] |
 | Part 3: (you are here) |
+| Part 4: [GitHub Pull Requests] |
 
 
 
 [2017 PowerShell/DevOps Summit]: https://powershell.org/summit/
 [GitHub 101]: http://www.brianbunke.com/blog/2017/05/08/github-101/
 [GitHub Lingo]: http://www.brianbunke.com/blog/2017/05/09/github-lingo/
+[GitHub Pull Requests]: http://www.brianbunke.com/blog/2017/05/12/github-pr/
 
 [GitHub]: https://github.com
 [PowerShell Core]: https://github.com/PowerShell/PowerShell
@@ -196,6 +198,8 @@ If you also want to fix your problem, great! We'll cover pull requests (PRs) nex
 
 [PS Core]: https://github.com/PowerShell/PowerShell/blob/master/.github/ISSUE_TEMPLATE.md
 [PoshBot]: https://github.com/poshbotio/PoshBot/blob/master/.github/ISSUE_TEMPLATE.md
+
+[next time]: http://www.brianbunke.com/blog/2017/05/12/github-pr/
 
 [@BrandonPadgett]: https://twitter.com/BrandonPadgett
 [@devblackops]: https://twitter.com/devblackops
