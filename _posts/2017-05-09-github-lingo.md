@@ -51,6 +51,8 @@ GitHub allows you to search keywords for projects in your preferred language, ch
 
 The terms "project" and "repository" are typically used interchangably in GitHub land. Your repository ("repo") is the collection of files and folders--consisting of code/docs/images/etc.--that make up your project.
 
+One caveat: GitHub has a "Projects" tab that is intended to be used like a [Kanban board]. I find that this isn't used very often in practice, but FYI to head off any confusion.
+
 ### Star/Watch/Follow
 
 "Starring" a project is giving it a like/favorite. Your profile keeps a list of repos you've starred, for quick future reference.
@@ -180,6 +182,7 @@ Making your first GitHub contribution! Tomorrow will be [all about issues]: why 
 
 - [@markwragg] for [suggestions]. Thanks!
 - [In Case of Fire] and [xkcd] for the laffs
+- [lipkau] for reminding me of GitHub's projects tab
 
 |Being an Upstanding Gitizen|
 |---------------------------|
@@ -200,11 +203,13 @@ Making your first GitHub contribution! Tomorrow will be [all about issues]: why 
 [Git]: https://git-scm.com/
 [Git basics]: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 [GitHub]: https://github.com
+[Kanban board]: https://leankit.com/learn/kanban/kanban-board/
 
 [Dillinger.io]: http://dillinger.io/
 [GitHub Flavored Markdown]: https://guides.github.com/features/mastering-markdown/
-[the sun always screamed]: https://youtu.be/2E6d5j3qrss
+
 [PowerShell-Docs]: https://github.com/PowerShell/PowerShell-Docs
+[the sun always screamed]: https://youtu.be/2E6d5j3qrss
 
 [all about issues]: http://www.brianbunke.com/blog/2017/05/10/github-issues/
 
@@ -212,3 +217,4 @@ Making your first GitHub contribution! Tomorrow will be [all about issues]: why 
 [suggestions]: https://twitter.com/brianbunke/status/859467976935825408
 [In Case of Fire]: https://github.com/louim/in-case-of-fire
 [xkcd]: https://xkcd.com
+[lipkau]: https://github.com/lipkau
