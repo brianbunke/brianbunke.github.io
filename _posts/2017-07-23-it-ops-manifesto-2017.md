@@ -53,7 +53,9 @@ You then lose that time for improving your environment. It slips very easily: It
 - Replace that firewall with a more modern unit
 - Identify and automate standard procedures
 
-I subscribe to the gospel that all **"improve"** operations can (and should) minimize long-term **"maintain"** efforts. _Reducing helpdesk ticket quantity_ is one of the few metrics our industry can generally agree upon. Don't forget it when you consider the ROI of potential projects.
+I subscribe to the gospel that all **"improve"** operations can (and should) minimize long-term **"maintain"** efforts. _Reducing helpdesk ticket quantity_ is one of the few metrics our industry can generally* agree upon. Don't forget it when you consider the ROI of potential projects.
+
+_\* - Yeah, generally. It's also a potential indicator of [Shadow IT]...which, unfortunately, is a topic for another day._
 
 ## IT is a force multiplier
 
@@ -201,7 +203,7 @@ Some managers have been burned by an employee leaving shortly after receiving tr
 
 Besides, if they leave:
 
-## Turnover, in moderation, is good
+## Turnover, in moderation, is healthy
 
 The goal should not be to assemble the best team and retain them forever. If it happens, great! But it's unrealistic, and likely to get quite expensive. Besides, an outsized focus on retention efforts often is just masking your team's training deficiencies.
 
@@ -238,9 +240,17 @@ Remember:
 
 Be the change you want to see in the world.
 
+---
+
+#### Acknowledgments
+{: .no_toc}
+
+- Thanks to [@GlennSarti] for the Shadow IT caveat
 
 
 [something sad]: https://www.reddit.com/r/sysadmin/comments/6os44g/we_are_canceling_all_training_and_certification/
+
+[Shadow IT]: https://en.wikipedia.org/wiki/Shadow_IT
 
 [force multiplier]: https://personalmba.com/force-multiplier/
 
@@ -255,3 +265,5 @@ Be the change you want to see in the world.
 [Pluralsight]: https://www.pluralsight.com/
 
 [Satya]: http://fortune.com/satya-nadella-microsoft-ceo/
+
+[@GlennSarti]: https://twitter.com/GlennSarti
