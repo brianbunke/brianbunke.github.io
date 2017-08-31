@@ -17,6 +17,8 @@ tags:
  - youtube
 ---
 
+> Update September 2017: I presented a 10-minute demo of Vester at VMworld 2017. https://youtu.be/9TRZ30XhK10
+
 A few days ago, the St. Louis PowerShell User Group was nice enough to invite me to talk about Vester. The online talk was livestreamed, but it's also available on Youtube now to review at your convenience!
 
 ### [Investigating Vester: March 2017 STL PSUG]
