@@ -17,11 +17,15 @@ tags:
  - youtube
 ---
 
-> Update September 2017: I presented a 10-minute demo of Vester at VMworld 2017. https://youtu.be/9TRZ30XhK10
+**Update September 2017:** I presented a short demo of Vester at VMworld 2017.
+
+#### [Sept 2017: Vester 1.2 in 10 Minutes]
+
+---
 
 A few days ago, the St. Louis PowerShell User Group was nice enough to invite me to talk about Vester. The online talk was livestreamed, but it's also available on Youtube now to review at your convenience!
 
-### [Investigating Vester: March 2017 STL PSUG]
+#### [Investigating Vester: March 2017 STL PSUG]
 
 You can find the files I used on the [STLPSUG GitHub page].
 
@@ -33,6 +37,7 @@ If you have any questions about the project, or any feedback on the presentation
 
 
 
+[Sept 2017: Vester 1.2 in 10 Minutes]: https://youtu.be/9TRZ30XhK10
 [Investigating Vester: March 2017 STL PSUG]: https://youtu.be/6DYZR-xFt-4
 [STLPSUG GitHub page]: https://github.com/stlpsug/stlpsug/tree/master/events/meetups/2017/march
 [One]: http://www.brianbunke.com/blog/2017/03/07/introducing-vester/
