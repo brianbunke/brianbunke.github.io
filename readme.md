@@ -1,8 +1,9 @@
 https://brianbunke.github.io | http://www.brianbunke.com
 
 ###### My posts on setting up this blog
-- [Personalizing GitHub Pages](http://www.brianbunke.com/blog/2016/12/08/personalizing-github-pages/)
-- [Jekyll on Win10](http://www.brianbunke.com/blog/2017/05/24/jekyll-win10/)
+- 2016-12: [Personalizing GitHub Pages](http://www.brianbunke.com/blog/2016/12/08/personalizing-github-pages/)
+- 2017-05: [Jekyll on Win10](http://www.brianbunke.com/blog/2017/05/24/jekyll-win10/)
+- 2017-09: [Twitter Cards on Jekyll](http://www.brianbunke.com/blog/2017/09/06/twitter-cards-on-jekyll/)
 
 ###### Quick start guide for Jekyll on GitHub Pages
 - http://jmcglone.com/guides/github-pages/
