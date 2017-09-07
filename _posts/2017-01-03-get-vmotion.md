@@ -21,8 +21,6 @@ I got really tired of parsing VM logs for vMotion events, and figured there coul
 
 Here's how to get up and running:
 
-_Sorry, I don't know why this code block highlights improperly. [Open issue here] if you have a tip for me! :)_
-
 ```posh
 # First time only: Install it from the PowerShell Gallery with PS v5
 # Requires an admin PowerShell window

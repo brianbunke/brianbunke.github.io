@@ -116,7 +116,7 @@ As you tweak the formatting to your preference, use the `Test-ScriptFileInfo` co
 
 With PSScriptInfo populated, and with Test-ScriptFileInfo returning no errors, you're ready to go.
 
-```
+```posh
 $MLC = "$env:USERPROFILE\Desktop\Measure-LastCommand.ps1"
 $Key = 'asdf-jkl-12345'
 Publish-Script -Path $MLC -NuGetApiKey $Key -Verbose
