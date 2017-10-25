@@ -11,7 +11,10 @@ tags:
  - code
  - powercli
  - vmware
+ - vmotion
 ---
+
+> 2017/10/25: **v1.1** is out; see more at [Get-VMotion for vSphere 6.5]
 
 As a VMware administrator, I occasionally field requests about VM performance. Troubleshooting involves asking the question "What changed?" a lot, and a vMotion (or Storage vMotion) can fall under that category.
 
@@ -81,6 +84,9 @@ s/o to lucd ([link][link1]) and alanrenouf/sneddo ([link][link2]) for prior work
 
 You can easily raise an issue on [my GitHub] if you find a bug, or just let me know if you found it helpful!
 
+
+
+[Get-VMotion for vSphere 6.5]: /blog/2017/10/25/get-vmotion-65/
 [find Get-VMotion]: https://www.powershellgallery.com/packages/Get-VMotion/
 [PowerShell Gallery]: https://www.powershellgallery.com/
 [my GitHub]: https://github.com/brianbunke/vCmdlets
