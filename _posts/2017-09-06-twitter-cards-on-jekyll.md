@@ -186,7 +186,7 @@ If you're here, I hope that means you were successful, and you learned a little 
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages]: https://pages.github.com
 
-[code]: /blog/2017/09/05/twitter-cards-on-jekyll/#tweak-to-fit-your-needs
+[code]: /blog/2017/09/06/twitter-cards-on-jekyll/#tweak-to-fit-your-needs
 
 [Twitter Cards]: https://dev.twitter.com/cards/overview
 [card types]: https://dev.twitter.com/cards/types
