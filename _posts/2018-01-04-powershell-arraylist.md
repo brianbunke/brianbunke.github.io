@@ -26,6 +26,8 @@ tags:
 
 ---
 
+> **UPDATE 2018/01/13:** v1.1.0 released to almost exclusively use `Generic.List` instead of `ArrayList`. [Details below]
+
 ## The Status Quo of @()
 
 You need to capture output within a ForEach loop in your PowerShell code. How do you do it quickly? The way we all learned, of course:
@@ -121,7 +123,19 @@ Have a good idea? ArrayList is on [GitHub], and I'd love to hear from you!
 
 > (Need a GitHub refresher? Shameless plug for my [101 series])
 
+## v1.1.0
 
+Use of [System.Collections.ArrayList] is discouraged in .NET/C# land. (Reference [one] and [two])
+
+After I posted the v1.0 release [on Reddit], /u/litemage pointed out that it's really easy to use a [Generic.List] collection that _isn't_ type-safe. Hey, that's pretty cool! Knowing this, there's no reason to default to an ArrayList collection anymore.
+
+Now, default behavior and specifying a `-Type` both create a `Generic.List`. An `ArrayList` is used only if you specify the `-Legacy` parameter.
+
+To address this, I released [v1.1.0] on 2018/01/13. I'm keeping the name, though, because the whole point is to reduce the amount of people using `@()`, and having "array" in the name on the [PowerShell Gallery] helps.
+
+
+
+[Details below]: /blog/2018/01/04/powershell-arraylist/#v110
 
 [See more]: https://www.google.com/search?q=powershell+array+performance
 
@@ -131,3 +145,8 @@ Have a good idea? ArrayList is on [GitHub], and I'd love to hear from you!
 [Steve Ballmer]: https://youtu.be/Vhh_GeBPOhs
 
 [101 series]: /blog/2017/05/08/github-101/
+
+[one]: https://msdn.microsoft.com/en-us/library/system.collections.arraylist(v=vs.110).aspx#Anchor_6
+[two]: https://stackoverflow.com/questions/2309694/arraylist-vs-list-in-c-sharp
+[on Reddit]: https://www.reddit.com/r/PowerShell/comments/7o3c52/powershell_arraylist_module/
+[v1.1.0]: https://github.com/brianbunke/ArrayList/releases/tag/v1.1.0
