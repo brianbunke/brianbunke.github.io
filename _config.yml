@@ -30,7 +30,7 @@ facebook_link:
 
 # Footer
 footer_left: "<a href=\"https://jekyllrb.com\">Jekyll</a> | <a href=\"https://pages.github.com\">GitHub Pages</a> | <a href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
-footer_right: "<a href=\"https://github.com/brianbunke/brianbunke.github.io\"><i class=\"fa fa-code\"></i><i class=\"fa fa-github\"></i></a>"
+footer_right: "<a href=\"https://github.com/brianbunke/brianbunke.github.io\"><i class=\"fa fa-code\"></i><i class=\"fab fa-github\"></i></a>"
 
 # Build settings
 markdown: kramdown
