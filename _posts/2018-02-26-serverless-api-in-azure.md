@@ -95,7 +95,7 @@ Part two, writing your first Azure Function in PowerShell--and highlighting the 
 
 ---
 
-|Create a Serverless REST API in Azure|
+|Build a Serverless REST API in Azure|
 |---|
 | Part 2: [PowerShell in Azure Functions] |
 | Part 3: [GitHub Integration with Azure Functions] |

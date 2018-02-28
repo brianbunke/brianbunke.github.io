@@ -298,7 +298,7 @@ For the abnormal among us, I'm really enjoying building my first formal REST API
 [Scripting Guys blog]: https://blogs.technet.microsoft.com/heyscriptingguy/
 
 [Why?]:                                     /blog/2018/02/26/serverless-api-in-azure/
-[Create a Serverless REST API in Azure]:    /blog/2018/02/26/serverless-api-in-azure/
+[Build a Serverless REST API in Azure]:     /blog/2018/02/26/serverless-api-in-azure/
 [GitHub integration]:                       /blog/2018/02/28/github-integration-with-azure-functions/
 [GitHub Integration with Azure Functions]:  /blog/2018/02/28/github-integration-with-azure-functions/
 [Add an API spec in Azure Functions]:       /blog/2018/03/01/azure-functions-swagger-spec/
