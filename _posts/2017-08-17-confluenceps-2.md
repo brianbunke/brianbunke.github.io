@@ -4,7 +4,7 @@ title:      ConfluencePS v2
 date:       2017-08-17 06:00:00 -0700
 summary:    Bigger, Badder, Meaner
 categories: blog
-thumbnail:  file-text-o
+thumbnail:  file-alt
 author:     brianbunke
 tags:
  - powershell

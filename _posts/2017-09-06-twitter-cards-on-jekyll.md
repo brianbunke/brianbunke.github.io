@@ -4,7 +4,7 @@ title:      Twitter Cards on Jekyll
 date:       2017-09-06 06:00:00 -0700
 summary:    If you're reading this, it worked ;)
 categories: blog
-thumbnail:  twitter
+thumbnail:  image
 author:     brianbunke
 image:      
 tags:

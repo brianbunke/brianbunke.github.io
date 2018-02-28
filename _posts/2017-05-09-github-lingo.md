@@ -4,7 +4,7 @@ title:      GitHub Lingo
 date:       2017-05-09 08:30:00 -0700
 summary:    The DevOps Rosetta Stone, or something
 categories: blog
-thumbnail:  git-square
+thumbnail:  language
 author:     brianbunke
 tags:
  - gitizen

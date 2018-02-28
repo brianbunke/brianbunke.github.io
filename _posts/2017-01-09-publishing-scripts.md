@@ -4,7 +4,7 @@ title:      Publishing Scripts to the PowerShell Gallery
 date:       2017-01-09 08:30:00 -0800
 summary:    Share Your Scripts Efficiently!
 categories: blog
-thumbnail:  cloud-upload
+thumbnail:  cloud-upload-alt
 author:     brianbunke
 tags:
  - powershell

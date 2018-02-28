@@ -4,7 +4,7 @@ title:      Get-VMotion
 date:       2017-01-03 10:00:00 -0800
 summary:    Report on VMware vMotion events
 categories: blog
-thumbnail:  exchange
+thumbnail:  exchange-alt
 author:     brianbunke
 tags:
  - powershell
