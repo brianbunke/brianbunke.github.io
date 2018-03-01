@@ -14,8 +14,6 @@ tags:
  - api
 ---
 
-[![icons](/images/ServerlessIcons.png)](/images/ServerlessIcons.png)
-
 In the beginning, there was an idea.
 
 I've interacted with a lot of REST APIs in the past few years. Wonky implementations aside, I really appreciate that method of providing a service overall.
@@ -25,6 +23,8 @@ However, the services I manage don't follow the same model, exposing API endpoin
 Indirectly, it begged the question: **_How do I build a REST API?_**
 
 This remained as an idle question in the back of my head for the last year or so. At the end of 2017, `$Job` onboarded to O365 and Azure. That made me think a little harder about the possibility, but I hadn't yet made it a priority.
+
+[![icons](/images/ServerlessIcons.png)](/images/ServerlessIcons.png)
 
 ### The real catalyst
 
