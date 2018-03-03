@@ -6,6 +6,7 @@ summary:    Buy all the futures in PowerShell-aaS
 categories: blog
 thumbnail:  book
 author:     brianbunke
+image:      /images/APIConclusionSplash.jpg
 tags:
  - powershell
  - azure
