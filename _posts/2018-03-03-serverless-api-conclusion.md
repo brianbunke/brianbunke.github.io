@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Serverless API Series - Conclusion
-date:       2018-02-17 06:00:00 -0800
+date:       2018-03-03 06:00:00 -0800
 summary:    Buy all the futures in PowerShell-aaS
 categories: blog
 thumbnail:  book
