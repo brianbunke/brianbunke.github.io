@@ -13,7 +13,7 @@ tags:
  - carte noire
 ---
 
-[Forfty percent] of all blogs' second posts are about how that blog was created, and tips & tricks learned during the process. I don't want to break from tradition during the holiday season, so here we go!
+[Forty percent] of all blogs' second posts are about how that blog was created, and tips & tricks learned during the process. I don't want to break from tradition during the holiday season, so here we go!
 
 > Sorry, today's safety standards dictate that I need to read a warning message before we jump without looking. This walkthrough assumes you have very basic Git/GitHub familiarity. If not, refer to a guide like GitHub's [Hello World].
 
