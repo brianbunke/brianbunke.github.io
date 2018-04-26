@@ -155,7 +155,7 @@ Come to the dark side. We have this walkthrough, and we most definitely have coo
 
 
 
-[Forfty percent]: <https://youtu.be/CpmDIP3Fn2Y>
+[Forty percent]: <https://youtu.be/CpmDIP3Fn2Y>
 [Hello World]: <https://guides.github.com/activities/hello-world/>
 [GitHub Pages]: <https://pages.github.com/>
 [limits]: <https://help.github.com/articles/what-is-github-pages/#usage-limits>
