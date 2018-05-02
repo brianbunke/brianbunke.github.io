@@ -1,4 +1,4 @@
-https://brianbunke.github.io | http://www.brianbunke.com
+https://brianbunke.github.io | https://www.brianbunke.com
 
 ###### My posts on setting up this blog
 - 2016-12: [Personalizing GitHub Pages](http://www.brianbunke.com/blog/2016/12/08/personalizing-github-pages/)
