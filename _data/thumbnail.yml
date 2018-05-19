@@ -1,2 +1,3 @@
-powershell: "https://brianbunke.github.io/images/thumbnails/powershell.png"
-vmware:     "https://brianbunke.github.io/images/thumbnails/vmware.png"
+powershell: "/images/thumbnails/powershell.png"
+rubrik:     "/images/thumbnails/rubrik.png"
+vmware:     "/images/thumbnails/vmware.png"
