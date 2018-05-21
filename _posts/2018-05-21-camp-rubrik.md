@@ -84,7 +84,9 @@ As workloads continue to migrate around your hybrid infrastructure, Polaris is p
 
 I think Rubrik is pretty cool technology, with plenty of room to grow. They do, too, and it's priced at a premium.
 
-I work at a SMB customer, and the cost is a steep ask at our smaller environment scale. You may want to be north of 500 VMs before you engage sales. Obviously, YMMV, but Rubrik isn't going to drop into every IT shop overnight.
+I work at a SMB customer, and the cost is a steep ask at our smaller environment scale. You may want to be north of ~~500~~ 200 VMs before you engage sales. Obviously, YMMV, but Rubrik isn't going to drop into every IT shop overnight.
+
+**EDIT:** [@TheJasonNash] corrected my numbers.
 
 If your infrastructure is larger, I'd encourage you to get up to date with Rubrik's feature set and consider what problems it may solve for you.
 
@@ -102,6 +104,8 @@ If your infrastructure is larger, I'd encourage you to get up to date with Rubri
 [Atlas file system]: https://www.rubrik.com/blog/introducing-atlas-rubriks-cloud-scale-file-system/
 
 [Polaris]: https://www.rubrik.com/product/polaris-overview/
+
+[@TheJasonNash]: https://twitter.com/TheJasonNash/status/998583102690746369
 
 [pics on Twitter]: https://twitter.com/brianbunke/status/997533601376813056
 [California Academy of Science]: https://www.calacademy.org/
