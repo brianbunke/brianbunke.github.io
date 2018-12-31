@@ -1,3 +1,4 @@
+docker:     "/images/thumbnails/docker.png"
 powershell: "/images/thumbnails/powershell.png"
 rubrik:     "/images/thumbnails/rubrik.png"
 vmware:     "/images/thumbnails/vmware.png"
