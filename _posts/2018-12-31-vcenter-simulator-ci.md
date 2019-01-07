@@ -71,7 +71,7 @@ For example, some of the methods include `PowerOffVM_Task`, `PowerOnMultiVM_Task
 
 If you'd like VCSIM to do something it currently doesn't support, open an issue on the open-source [govmomi] library.
 
-Coming up: My next post will detail how you can incorporate this Docker image into an [Azure DevOps build pipeline], providing an avenue to truly unit test your code in a CI pipeline without connecting to an existing vSphere environment.
+Coming up: My next post will detail how you can incorporate this Docker image into an [Azure DevOps build pipeline], providing an avenue to run integration tests with your code in a CI pipeline without connecting to an existing vSphere environment.
 
 
 
