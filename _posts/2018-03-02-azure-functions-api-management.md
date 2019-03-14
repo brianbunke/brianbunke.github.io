@@ -58,7 +58,9 @@ IDK about you, but that sounds pretty cool. Well, and I have a blog post to writ
 
 ## Cost disclaimer!
 
-**There is no free tier for Azure API Management.** In the US, the developer tier currently costs ~$50 USD per month, and the basic tier is almost $150. [Pricing sheet]
+[A consumption based model of Azure API Management is currently in Preview as of December 2018, which allows 1 million queries for free.](https://azure.microsoft.com/en-us/updates/api-management-consumption-tier-is-in-preview/)
+
+**In Production, however, is no free tier for Azure API Management yet.** In the US, the developer tier currently costs ~$50 USD per month, and the basic tier is almost $150. [Pricing sheet]
 
 Granted that this prices it out of most personal projects, into solely business use cases. It's still cool, and you should still know about it.
 
