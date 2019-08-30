@@ -4,12 +4,12 @@ email: me@brianbunke.com
 description: "...And You Will Know Me by the Trail of Documentation"
 baseurl: ""
 url: "https://brianbunke.github.io"
-title_description: "IT Ops Lead in the Seattle area. I often write about PowerShell and VMware. My boys think I'm funny.
+title_description: "IT Lead in the Seattle area. I often write about PowerShell and VMware. My sons think I'm funny sometimes."
 <br><br>
-<a href=\"/blog/2018/02/26/serverless-api-in-azure/\">Serverless API</a> | <a href=\"/blog/2017/05/08/github-101/\">GitHub 101</a> | <a href=\"/blog/2017/07/23/it-ops-manifesto-2017/\">IT Ops Manifesto</a>
+<a href=\"/blog/2018/02/26/serverless-api-in-azure/\">Azure Serverless API</a> | <a href=\"/blog/2018/12/31/vcenter-simulator-ci/\">vCenter Simulator</a>
 <br><br>
-<a href=\"https://communities.vmware.com/docs/DOC-36006\"><img src=\"/images/vExpert2017.png\"></a> 
-<a href=\"https://www.certmetrics.com/vmware/public/transcript.aspx?transcript=V8KPCK4111RE1PS7\"><img src=\"/images/vcap6dcv.png\"></a>"
+<a href=\"https://vexpert.vmware.com/directory/1581\"><img src=\"/images/vExpert.png\"></a> 
+<a href=\"https://www.certmetrics.com/vmware/public/transcript.aspx?transcript=V8KPCK4111RE1PS7\"><img src=\"/images/vcert.png\"></a>"
 title_image: "http://www.brianbunke.com/images/brian.jpg"
 google_analytics: "UA-59218526-2"
 github_repository: https://github.com/brianbunke/brianbunke.github.io
