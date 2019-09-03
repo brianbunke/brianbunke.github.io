@@ -10,7 +10,7 @@ title_description: "IT Lead in the Seattle area. I often write about PowerShell 
 <br><br>
 <a href=\"https://vexpert.vmware.com/directory/1581\"><img src=\"/images/vExpert.png\"></a> 
 <a href=\"https://www.certmetrics.com/vmware/public/transcript.aspx?transcript=V8KPCK4111RE1PS7\"><img src=\"/images/vcert.png\"></a>"
-title_image: "https://www.brianbunke.com/images/brian.jpg"
+title_image: "/images/brian.jpg"
 google_analytics: "UA-59218526-2"
 github_repository: https://github.com/brianbunke/brianbunke.github.io
 post_limit: 5

@@ -111,36 +111,6 @@ layout: default
 
       </div>
 
-      <!-- Overhauled feedback panel 2017/03/19
-
-      {% if site.twitter_username and site.disqus_account %}
-      <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or leave a comment below!
-      </div>
-      {% elsif site.twitter_username %}
-      <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article on Twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>!
-      </div>
-      {% elsif site.disqus_account %}
-      <div class="content-panel feedback">
-        I <i class="fa fa-heart"></i> feedback.<br />
-        Let me know what you think of this article in the comment section below!
-      </div>
-      {% endif %}
-
-      {% if site.disqus_account %}
-      <div class="content-panel comments">
-        <div id="disqus_thread">
-          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-        </div>
-      </div>
-      {% endif %}
-
-      -->
-
       {% if site.related_posts.length > 0 %}
       <div class="content-panel related clearfix">
         {% for post in site.related_posts limit:1 %}
