@@ -4,6 +4,7 @@ title:      GitHub Integration with Azure Functions
 date:       2018-02-28 06:00:00 -0800
 summary:    Sync your commits to Azure, automagically
 categories: blog
+series:     azureapi
 thumbnail:  code-branch
 author:     brianbunke
 image:      /images/GitHubFunctionSplash.png
@@ -15,10 +16,6 @@ tags:
  - functions
  - code
  - github
----
-
-Prev: [PS in AF] \| **[Serverless REST API series]** \| Next: [Swagger API spec]
-
 ---
 
 Yesterday, we created an Azure Functions App with a "ScriptingGuysGet" function inside. It's pretty rad...but we had to manually paste that code into a text box in Azure.
@@ -132,16 +129,6 @@ But what good is a cool function app if you can't connect it to the rest of the 
 
 To level up, next time we'll generate a Swagger v2.0 API specification file from our current state, and peek inside the doorways it opens for us.
 
----
-
-|[Build a Serverless REST API in Azure]|
-|---|
-| Part 2: [PowerShell in Azure Functions] |
-| Part 3: (you are here) |
-| Part 4: [Add an API spec in Azure Functions] |
-| Part 5: [Azure Functions and Azure API Management] |
-| Part 6: [Serverless API Series Conclusion] |
-
 
 
 [GitHub 101 series]: /blog/2017/05/08/github-101/
@@ -151,12 +138,3 @@ To level up, next time we'll generate a Swagger v2.0 API specification file from
 [PowerShell Team blog]: https://blogs.msdn.microsoft.com/powershell/
 [DRY]:                  https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [PowerShellAPI repo]:   https://github.com/brianbunke/PowerShellAPI/
-
-[Serverless REST API series]:               /blog/2018/02/26/serverless-api-in-azure/
-[Build a Serverless REST API in Azure]:     /blog/2018/02/26/serverless-api-in-azure/
-[PS in AF]:                                 /blog/2018/02/27/powershell-in-azure-functions/
-[PowerShell in Azure Functions]:            /blog/2018/02/27/powershell-in-azure-functions/
-[Swagger API spec]:                         /blog/2018/03/01/azure-functions-swagger-spec/
-[Add an API spec in Azure Functions]:       /blog/2018/03/01/azure-functions-swagger-spec/
-[Azure Functions and Azure API Management]: /blog/2018/03/02/azure-functions-api-management/
-[Serverless API Series Conclusion]:         /blog/2018/03/03/serverless-api-conclusion/

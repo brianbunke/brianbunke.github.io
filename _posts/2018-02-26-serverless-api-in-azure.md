@@ -4,6 +4,7 @@ title:      Build a Serverless API in Azure
 date:       2018-02-26 06:00:00 -0800
 summary:    ...because it's pretty awesome
 categories: blog
+series:     azureapi
 thumbnail:  lightbulb
 author:     brianbunke
 image:      /images/ServerlessSplash.png
@@ -93,25 +94,9 @@ In its current state, this is a six(!)-part series that will roll out this week.
 
 Part two, writing your first Azure Function in PowerShell--and highlighting the quirks of coding in a language with "experimental" support--drops tomorrow. Hopefully I've piqued your interest with what's possible, and I'll see you on the other side!
 
----
-
-|Build a Serverless REST API in Azure|
-|---|
-| Part 2: [PowerShell in Azure Functions] |
-| Part 3: [GitHub Integration with Azure Functions] |
-| Part 4: [Add an API spec in Azure Functions] |
-| Part 5: [Azure Functions and Azure API Management] |
-| Part 6: [Serverless API Series Conclusion] |
-
 
 
 [Stevey's Google Platforms Rant]: https://plus.google.com/+RipRowan/posts/eVeouesvaVX
 [wrote about why]: https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84
 
 [CapEx to OpEx]: http://www.bmc.com/blogs/capex-vs-opex/
-
-[PowerShell in Azure Functions]:            /blog/2018/02/27/powershell-in-azure-functions/
-[GitHub Integration with Azure Functions]:  /blog/2018/02/28/github-integration-with-azure-functions/
-[Add an API spec in Azure Functions]:       /blog/2018/03/01/azure-functions-swagger-spec/
-[Azure Functions and Azure API Management]: /blog/2018/03/02/azure-functions-api-management/
-[Serverless API Series Conclusion]:         /blog/2018/03/03/serverless-api-conclusion/

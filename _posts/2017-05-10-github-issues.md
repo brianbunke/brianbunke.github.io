@@ -4,6 +4,7 @@ title:      GitHub Issues
 date:       2017-05-10 10:00:00 -0700
 summary:    Your First GitHub Contribution
 categories: blog
+series:     github101
 thumbnail:  question-circle
 author:     brianbunke
 tags:
@@ -13,11 +14,6 @@ tags:
 ---
 
 _This blog series started as a lightning talk at the [2017 PowerShell/DevOps Summit] titled "Being an Upstanding Gitizen."_
-
-1. _[GitHub 101]_
-2. _[GitHub Lingo]_
-3. _(you are here)_
-4. _[GitHub Pull Requests]_
 
 ---
 
@@ -177,19 +173,9 @@ If you also want to fix your problem, great! We'll cover pull requests (PRs) [ne
 
 - [@BrandonPadgett] & [@devblackops] for making issues an issue ([1], [2])
 
-|Being an Upstanding Gitizen|
-|---------------------------|
-| Part 1: [GitHub 101] |
-| Part 2: [GitHub Lingo] |
-| Part 3: (you are here) |
-| Part 4: [GitHub Pull Requests] |
-
 
 
 [2017 PowerShell/DevOps Summit]: https://powershell.org/summit/
-[GitHub 101]: http://www.brianbunke.com/blog/2017/05/08/github-101/
-[GitHub Lingo]: http://www.brianbunke.com/blog/2017/05/09/github-lingo/
-[GitHub Pull Requests]: http://www.brianbunke.com/blog/2017/05/12/github-pr/
 
 [GitHub]: https://github.com
 [PowerShell Core]: https://github.com/PowerShell/PowerShell

@@ -4,6 +4,7 @@ title:      Serverless API Series - Conclusion
 date:       2018-03-03 06:00:00 -0800
 summary:    Buy all the futures in PowerShell-aaS
 categories: blog
+series:     azureapi
 thumbnail:  book
 author:     brianbunke
 image:      /images/APIConclusionSplash.jpg
@@ -14,8 +15,6 @@ tags:
  - api
  - functions
 ---
-
-Prev: [API Management] \| **[Serverless REST API series]** \| Next: ?
 
 It's been a long week of API goodness spamming your Twitter feed. Concluding the series at the end of the APIM post yesterday didn't feel right, so I pulled a few sections over here to help put a bow on everything.
 
@@ -105,16 +104,6 @@ We made it, whew. Thanks for sharing interest in this idea...it took me a long t
 
 Happy creating!
 
----
-
-|[Build a Serverless REST API in Azure]|
-|---|
-| Part 2: [PowerShell in Azure Functions] |
-| Part 3: [GitHub Integration with Azure Functions] |
-| Part 4: [Add an API spec in Azure Functions] |
-| Part 5: [Azure Functions and Azure API Management] |
-| Part 6: (you are here) |
-
 
 
 [API design guidance]: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
@@ -125,11 +114,3 @@ Happy creating!
 [Azure Cosmos DB]: https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
 ["To ship is to choose."]: http://www.jsnover.com/blog/2011/12/18/iranian-drone-hack-and-technical-debt/
 [React Native]: https://facebook.github.io/react-native/
-
-[Serverless REST API series]:               /blog/2018/02/26/serverless-api-in-azure/
-[Build a Serverless REST API in Azure]:     /blog/2018/02/26/serverless-api-in-azure/
-[PowerShell in Azure Functions]:            /blog/2018/02/27/powershell-in-azure-functions/
-[GitHub Integration with Azure Functions]:  /blog/2018/02/28/github-integration-with-azure-functions/
-[Add an API spec in Azure Functions]:       /blog/2018/03/01/azure-functions-swagger-spec/
-[API Management]:                           /blog/2018/03/02/azure-functions-api-management/
-[Azure Functions and Azure API Management]: /blog/2018/03/02/azure-functions-api-management/

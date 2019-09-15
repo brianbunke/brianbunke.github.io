@@ -4,6 +4,7 @@ title:      GitHub Lingo
 date:       2017-05-09 08:30:00 -0700
 summary:    The DevOps Rosetta Stone, or something
 categories: blog
+series:     github101
 thumbnail:  language
 author:     brianbunke
 tags:
@@ -13,11 +14,6 @@ tags:
 ---
 
 _This blog series started as a lightning talk at the [2017 PowerShell/DevOps Summit] titled "Being an Upstanding Gitizen."_
-
-1. _[GitHub 101]_
-2. _(you are here)_
-3. _[GitHub Issues]_
-4. _[GitHub Pull Requests]_
 
 ---
 
@@ -184,19 +180,9 @@ Making your first GitHub contribution! Tomorrow will be [all about issues]: why 
 - [In Case of Fire] and [xkcd] for the laffs
 - [lipkau] for reminding me of GitHub's projects tab
 
-|Being an Upstanding Gitizen|
-|---------------------------|
-| Part 1: [GitHub 101] |
-| Part 2: (you are here) |
-| Part 3: [GitHub Issues] |
-| Part 4: [GitHub Pull Requests] |
-
 
 
 [2017 PowerShell/DevOps Summit]: https://powershell.org/summit/
-[GitHub 101]: http://www.brianbunke.com/blog/2017/05/08/github-101/
-[GitHub Issues]: http://www.brianbunke.com/blog/2017/05/10/github-issues/
-[GitHub Pull Requests]: http://www.brianbunke.com/blog/2017/05/12/github-pr/
 
 [GitHub Help]: https://help.github.com/
 

@@ -4,6 +4,7 @@ title:      "Vester 2: Vest Harder"
 date:       2017-03-08 07:30:00 -0800
 summary:    Even Deeper into VMware Configuration Management
 categories: blog
+series:     vester
 thumbnail:  vmware
 author:     brianbunke
 tags:
@@ -15,10 +16,6 @@ tags:
  - psgallery
  - github
 ---
-
-> Part 1 of this series, [Introducing Vester], covers the basics of what Vester is and how to get started.
->
-> Part 3, [Write Your Own Vester Test], covers the individual *.Vester.ps1 test structure, and walks through an example of how to create your own tests.
 
 Relevant Vester links, conveniently up top for your reference:
 - The project is published on the [PowerShell Gallery] and maintained, open-source, on [GitHub]
@@ -151,8 +148,6 @@ Part 1: [Introducing Vester] | Part 3: [Write Your Own Vester Test]
 
 
 
-[Introducing Vester]: http://www.brianbunke.com/blog/2017/03/07/introducing-vester/
-[Write Your Own Vester Test]: http://www.brianbunke.com/blog/2017/03/09/write-your-own-vester-test/
 [PowerShell Gallery]: https://www.powershellgallery.com/packages/Vester
 [GitHub]: https://github.com/WahlNetwork/Vester
 [ReadTheDocs]: http://vester.readthedocs.io/en/latest/index.html

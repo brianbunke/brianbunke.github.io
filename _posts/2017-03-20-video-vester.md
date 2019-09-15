@@ -4,6 +4,7 @@ title:      Video Vester
 date:       2017-03-20 07:30:00 -0800
 summary:    A Recorded Presentation of the Blog Series
 categories: blog
+series:     vester
 thumbnail:  video
 author:     brianbunke
 tags:

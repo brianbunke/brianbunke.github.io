@@ -4,6 +4,7 @@ title:      Azure Functions and Azure API Management
 date:       2018-03-02 06:00:00 -0800
 summary:    I guess you could say things are getting pretty serious
 categories: blog
+series:     azureapi
 thumbnail:  cogs
 author:     brianbunke
 image:      /images/APIMSplash.png
@@ -15,10 +16,6 @@ tags:
  - functions
  - code
  - apim
----
-
-Prev: [Swagger API spec] \| **[Serverless REST API series]** \| Next: [Series conclusion]
-
 ---
 
 When we left off, you had a Functions App with its very own published Swagger API spec. You can test it while logged into the Azure portal, and query each endpoint from your own computer. Isn't that good enough?
@@ -158,16 +155,6 @@ We are officially **done** with the technical content in this series. Take a str
 
 Tomorrow, I'll wrap up the series with some small lessons learned and potential future plans. Cheers!
 
----
-
-|[Build a Serverless REST API in Azure]|
-|---|
-| Part 2: [PowerShell in Azure Functions] |
-| Part 3: [GitHub Integration with Azure Functions] |
-| Part 4: [Add an API spec in Azure Functions] |
-| Part 5: (you are here) |
-| Part 6: [Serverless API Series Conclusion] |
-
 
 
 [Azure API Management]: https://azure.microsoft.com/en-us/services/api-management/
@@ -177,12 +164,3 @@ Tomorrow, I'll wrap up the series with some small lessons learned and potential 
 [Create a new APIM service instance]: https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
 
 [Import a Function App as an API]: https://docs.microsoft.com/en-us/azure/api-management/import-function-app-as-api
-
-[Serverless REST API series]:               /blog/2018/02/26/serverless-api-in-azure/
-[Build a Serverless REST API in Azure]:     /blog/2018/02/26/serverless-api-in-azure/
-[PowerShell in Azure Functions]:            /blog/2018/02/27/powershell-in-azure-functions/
-[GitHub Integration with Azure Functions]:  /blog/2018/02/28/github-integration-with-azure-functions/
-[Swagger API spec]:                         /blog/2018/03/01/azure-functions-swagger-spec/
-[Add an API spec in Azure Functions]:       /blog/2018/03/01/azure-functions-swagger-spec/
-[Series conclusion]:                        /blog/2018/03/03/serverless-api-conclusion/
-[Serverless API Series Conclusion]:         /blog/2018/03/03/serverless-api-conclusion/

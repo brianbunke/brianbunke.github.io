@@ -4,6 +4,7 @@ title:      Write Your Own Vester Test
 date:       2017-03-09 07:30:00 -0800
 summary:    Extensible Systems are Pretty Cool
 categories: blog
+series:     vester
 thumbnail:  vmware
 author:     brianbunke
 tags:
@@ -15,10 +16,6 @@ tags:
  - psgallery
  - github
 ---
-
-> Part 1 of this series, [Introducing Vester], covers the basics of what Vester is and how to get started.
->
-> Part 2 of this series, [Vester 2: Vest Harder], covers more advanced usage of the module.
 
 Relevant Vester links, conveniently up top for your reference:
 - The project is published on the [PowerShell Gallery] and maintained, open-source, on [GitHub]
@@ -142,8 +139,6 @@ Part 1: [Introducing Vester] | Part 2: [Vester 2: Vest Harder]
 
 
 
-[Introducing Vester]: http://www.brianbunke.com/blog/2017/03/07/introducing-vester/
-[Vester 2: Vest Harder]: http://www.brianbunke.com/blog/2017/03/08/vester-2-vest-harder/
 [PowerShell Gallery]: https://www.powershellgallery.com/packages/Vester
 [GitHub]: https://github.com/WahlNetwork/Vester
 [ReadTheDocs]: http://vester.readthedocs.io/en/latest/index.html

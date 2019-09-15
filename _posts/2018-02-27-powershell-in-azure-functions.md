@@ -4,6 +4,7 @@ title:      PowerShell in Azure Functions
 date:       2018-02-27 06:00:00 -0800
 summary:    Building your first Azure Function with PS
 categories: blog
+series:     azureapi
 thumbnail:  bolt
 author:     brianbunke
 image:      /images/FunctionSplash.png
@@ -14,10 +15,6 @@ tags:
  - api
  - functions
  - code
----
-
-Prev: [Why?] \| **Serverless REST API series** \| Next: [GitHub integration]
-
 ---
 
 Just hopping on the [serverless] train in 2018? Join the club! Lately, I've been a little obsessed with [Azure Functions] and the doors it opens.
@@ -270,16 +267,6 @@ If building a full API doesn't sound interesting or fun...congratulations, you'r
 
 For the abnormal among us, I'm really enjoying building my first formal REST API. Step two is setting up continuous deployment to our new Azure Function App from GitHub...I hope you'll stick around!
 
----
-
-|[Build a Serverless REST API in Azure]|
-|---|
-| Part 2: (you are here) |
-| Part 3: [GitHub Integration with Azure Functions] |
-| Part 4: [Add an API spec in Azure Functions] |
-| Part 5: [Azure Functions and Azure API Management] |
-| Part 6: [Serverless API Series Conclusion] |
-
 
 
 [serverless]: https://azure.microsoft.com/en-us/overview/serverless-computing/
@@ -296,11 +283,3 @@ For the abnormal among us, I'm really enjoying building my first formal REST API
 [query parameter]: https://docs.microsoft.com/en-us/rest/api/#components-of-a-rest-api-requestresponse
 
 [Scripting Guys blog]: https://blogs.technet.microsoft.com/heyscriptingguy/
-
-[Why?]:                                     /blog/2018/02/26/serverless-api-in-azure/
-[Build a Serverless REST API in Azure]:     /blog/2018/02/26/serverless-api-in-azure/
-[GitHub integration]:                       /blog/2018/02/28/github-integration-with-azure-functions/
-[GitHub Integration with Azure Functions]:  /blog/2018/02/28/github-integration-with-azure-functions/
-[Add an API spec in Azure Functions]:       /blog/2018/03/01/azure-functions-swagger-spec/
-[Azure Functions and Azure API Management]: /blog/2018/03/02/azure-functions-api-management/
-[Serverless API Series Conclusion]:         /blog/2018/03/03/serverless-api-conclusion/
