@@ -13,6 +13,10 @@ tags:
  - api
 ---
 
+_**UPDATE 2019-09:** Fiddler is still useful for more comprehensive troubleshooting, but for this post's quick use case, I now use [REST Client for VS Code]._
+
+---
+
 A friend asks:
 
 > I'm utilizing `Invoke-WebRequest` to post some data to a form. Works great and life is good...but now I have a company writing an application to do the same thing.
@@ -65,6 +69,8 @@ In search of quicker blog posts (read: not blown out into an insufferable six-pa
 Have a question you'd like me to tackle? Get in touch below!
 
 
+
+[REST Client for VS Code]: /blog/2019/09/16/rest-client-vs-code
 
 [Fiddler]: https://www.telerik.com/fiddler
 [http://jsonplaceholder.typicode.com]: http://jsonplaceholder.typicode.com
