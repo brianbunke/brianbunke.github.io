@@ -1,9 +1,10 @@
 ---
 layout:     post
 title:      Personalizing GitHub Pages
-date:       2016-12-08 05:00:00
+date:       2016-12-08 05:00:00 -0800
 summary:    You've decided to use GitHub Pages. Now what?
 categories: blog
+series:     githubpages
 thumbnail:  rss-square
 author:     brianbunke
 tags:

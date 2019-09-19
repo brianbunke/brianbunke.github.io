@@ -4,6 +4,7 @@ title:      Twitter Cards on Jekyll
 date:       2017-09-06 06:00:00 -0700
 summary:    If you're reading this, it worked ;)
 categories: blog
+series:     githubpages
 thumbnail:  image
 author:     brianbunke
 image:      
@@ -175,12 +176,6 @@ No link previews = bad. Link previews = excellent.
 
 If you're here, I hope that means you were successful, and you learned a little about Jekyll's inner workings along the way. Reach out if you have suggestions or questions!
 
----
-
-| Previous Jekyll posts:
-| [Personalizing GitHub Pages]
-| [Jekyll on Win10]
-
 
 
 [Jekyll]: https://jekyllrb.com
@@ -203,6 +198,3 @@ If you're here, I hope that means you were successful, and you learned a little 
 [An example post]: https://raw.githubusercontent.com/brianbunke/brianbunke.github.io/7f3261932826652d0111c1a6b7708daf44aba86d/_posts/2017-09-05-vmworld-2017-wrapup.md
 
 [Validator Tool]: https://cards-dev.twitter.com/validator
-
-[Personalizing GitHub Pages]: http://www.brianbunke.com/blog/2016/12/08/personalizing-github-pages/
-[Jekyll on Win10]: http://www.brianbunke.com/blog/2017/05/24/jekyll-win10/
