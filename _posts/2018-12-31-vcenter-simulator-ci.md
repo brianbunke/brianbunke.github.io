@@ -4,6 +4,7 @@ title:      vCenter Simulator Docker Container
 date:       2018-12-31 00:00:00 -0800
 summary:    No vCenter, no problem
 categories: blog
+series:     vcsim
 thumbnail:  docker
 author:     brianbunke
 tags:
