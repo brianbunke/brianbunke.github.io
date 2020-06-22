@@ -2,7 +2,7 @@
 layout:     post
 title:      New-InboxRule -MessageTypeMatches
 date:       2020-06-22 00:00:00 -0800
-summary:    Advanced email "filing" via EXOPS
+summary:    Email filing via EXOPS
 categories: blog
 thumbnail:  calendar-times
 author:     brianbunke
