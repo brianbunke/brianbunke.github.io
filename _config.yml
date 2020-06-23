@@ -6,8 +6,6 @@ baseurl: ""
 url: "https://brianbunke.github.io"
 title_description: "IT Lead in the Seattle area. I often write about PowerShell and VMware. My sons think I'm funny sometimes.
 <br><br>
-<a href=\"/blog/2018/02/26/serverless-api-in-azure/\">Azure Serverless API</a> | <a href=\"/blog/2018/12/31/vcenter-simulator-ci/\">vCenter Simulator</a>
-<br><br>
 <a href=\"https://vexpert.vmware.com/directory/1581\"><img src=\"/images/vExpert.png\"></a> 
 <a href=\"https://www.certmetrics.com/vmware/public/transcript.aspx?transcript=475K7SWC2N41QLWF\"><img src=\"/images/vcert.png\"></a>"
 title_image: "/images/brian.jpg"
