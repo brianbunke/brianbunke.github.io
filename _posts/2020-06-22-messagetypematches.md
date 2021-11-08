@@ -13,6 +13,8 @@ tags:
  - exops
 ---
 
+
+
 A coworker asked for an Outlook rule that deleted all meeting responses. [This walkthrough] works if you're sitting in front of Outlook, but there has to be a way to do it with Exchange Online PowerShell (EXOPS), right?
 
 ```powershell
@@ -37,6 +39,8 @@ Outlook client:
 [![outlook-rule-warning](/images/outlook-rule-warning.png)](/images/outlook-rule-warning.png)
 
 OWA ([https://outlook.office365.com]):
+
+**EDIT Nov 2021:** I only delete "accepted" meeting responses now. Rejected responses are usually useful information, and often have a reason why in the body.
 
 [![owa-rule](/images/owa-rule.png)](/images/owa-rule.png)
 
