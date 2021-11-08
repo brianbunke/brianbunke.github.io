@@ -18,7 +18,7 @@ Not blogging for over a year has really changed my outlook on titling blog posts
 
 ## tl;dr
 
-**https://github.com/brianbunke/TeamsStatus**
+**[https://github.com/brianbunke/TeamsStatus](https://github.com/brianbunke/TeamsStatus)**
 
 ![teams-hallway](/images/teams-hallway.jpg)
 ![teams-seinfeld](/images/teams-seinfeld.jpg)
@@ -129,7 +129,7 @@ If ($TeamsStatus -match 'OnThePhone|Presenting') {
 }
 ```
 
-HSV -- While you might equate smart home devices with the Herpes simplex virus, Hue/Saturation/Value is another way of notating the color you prefer. https://colorpicker.me
+HSV -- While you might equate smart home devices with the Herpes simplex virus, Hue/Saturation/Value is another way of notating the color you prefer. [https://colorpicker.me](https://colorpicker.me)
 
 ### Kasa App
 
@@ -145,9 +145,9 @@ Before I had a bulb to try, I tried toggling status in my family Slack for my wi
 
 ### New Slack app and key
 
-https://api.slack.com/authentication/basics
+[https://api.slack.com/authentication/basics](https://api.slack.com/authentication/basics)
 
-Go to https://api.slack.com/apps, create a new app, then go to "OAuth & Permissions" and add `users.profile:write` to "User Token Scopes". Then copy the User OAuth Token for use by your script.
+Go to [https://api.slack.com/apps](https://api.slack.com/apps), create a new app, then go to "OAuth & Permissions" and add `users.profile:write` to "User Token Scopes". Then copy the User OAuth Token for use by your script.
 
 (You may also need `users.read` once to [grab the UserID] you are modifying. That's how I did it, anyway.)
 
@@ -202,7 +202,7 @@ This requires that you enter your password upon editing the task, and that your 
 
 ## In Conclusion
 
-**https://github.com/brianbunke/TeamsStatus**
+**[https://github.com/brianbunke/TeamsStatus](https://github.com/brianbunke/TeamsStatus)**
 
 Like you care about more words here. I hope it helps!
 
