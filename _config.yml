@@ -4,19 +4,21 @@ email: me@brianbunke.com
 description: "...And You Will Know Me by the Trail of Documentation"
 baseurl: ""
 url: "https://brianbunke.github.io"
-title_description: "IT Director in the Seattle area. Usually thinking about leadership or the next API to automate. My sons think I'm funny sometimes.
+title_description: "Experienced IT pro in the Seattle area currently looking for work.
 <br><br>
-<a href=\"https://www.certmetrics.com/vmware/public/transcript.aspx?transcript=475K7SWC2N41QLWF\"><img src=\"/images/vcert.png\"></a>"
+I care about solving problems while building trust and long-term relationships. I love providing professionals opportunities to grow their careers. I have excellent attention to detail, enjoy automating APIs and enabling self-service, and practice continuous improvement of daily operations.
+<br><br>
+My sons think I'm funny sometimes."
 title_image: "/images/brian.jpg"
 google_analytics: "G-BC0TCFHG9Q"
 github_repository: https://github.com/brianbunke/brianbunke.github.io
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: brianbunke
 github_username:  brianbunke
-reddit_username:  brianbunke
 linkedin_link:    brianbunke
+twitter_username:
+reddit_username:
 instagram_username: 
 google_plus_link: 
 stackoverflow_link: 
